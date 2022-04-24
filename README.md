@@ -1,4 +1,4 @@
-# Introduction to Programming and Data Science with Python I and II
+## Introduction to Programming and Data Science with Python I and II
 
 Python is a language with a simple syntax, and a powerful set of libraries. It is an interpreted language, with a rich programming environment, including a robust debugger and profiler. While it is easy for beginners to learn, it is widely used in many scientific areas for data exploration. This course is an introduction to the Python programming language for data science students with no prior programming experience.  Topics include: flow control, decision structures, repetition, recursion, subroutines, functions, algorithm development, data structures, and basic object-oriented programming concepts.  These essential computer programming concepts are used to develop computer programs that handle numerical data, whether it is obtained in a laboratory or the field, or generated as the output of some mathematical function.
 
